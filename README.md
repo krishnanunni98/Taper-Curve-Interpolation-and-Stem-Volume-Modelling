@@ -1,0 +1,2 @@
+# Taper-Curve-Interpolation-and-Stem-Volume-Modelling
+This exercise used stem analysis data from plantation trees to reconstruct taper curves and estimate stem volume under a hierarchical data structure. Workflow: spline interpolation of diameter measurements along the stem, numerical integration for volume estimation, and mixed-effects modelling to account for correlations within compartments &amp;plots.
